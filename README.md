@@ -5,5 +5,5 @@
   
   <img src="#" align="right" width="25%"/>
 
-<h2 style="text-align: center;" > I'm a computer science student passionate about web development. </h2>
+<p style="text-align: center;" > I'm a computer science student passionate about web development. </p>
 
