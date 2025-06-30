@@ -5,5 +5,5 @@
   
   <img src="#" align="right" width="25%"/>
 
-I'm a student who is passionate about creating APIs using django and Mysql.
+<h2> I'm a computer science student passionate about web development. </h2>
 
